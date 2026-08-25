@@ -1,4 +1,4 @@
-LicenseKey,ExpiryDate,Status,CustomerName
+LicenseKey,ExpiryDate,Status,CustomerId
 MYKEY-12345-ABCDE,2026-12-31,Active,Mintu
 TEST-EXPIRING-SOON,2026-08-25,Active,Virgu
 TEST-EXPIRED-KEY,2024-01-01,Active,Amal
